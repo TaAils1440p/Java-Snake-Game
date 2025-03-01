@@ -1,0 +1,7 @@
+cd C:\Users\<USER>\<DOWNLOAD_LOCATION>\SnakeGameJava
+
+ls
+
+javac SnakeGame.java
+
+java SnakeGame
